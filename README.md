@@ -1,1 +1,1 @@
-# maildogrulamaislemi
+# mail-dogrulama-islemi
